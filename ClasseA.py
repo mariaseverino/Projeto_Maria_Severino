@@ -20,3 +20,6 @@ class ClasseA:
 
     def MA2(self):
         print("MA2")
+
+    def MA3(self):
+        print("Criado o Método MA3()")
